@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasherss&label=Profile%20views&color=0e75b6&style=flat-square" alt="andreasherss" /> </p>
 
-- 🎟️ I’m currently owner/CTO at [Tickethero](https://tickethero.dk/)
+- 🎟️ I’m currently co-owner/CTO at [Tickethero](https://tickethero.dk/)
 
 - 💬 Ask me anything about **Laravel & Vue**
 
