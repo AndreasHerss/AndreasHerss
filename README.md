@@ -5,10 +5,6 @@
 
 - 🎟️ I’m currently co-owner/CTO at [Tickethero](https://tickethero.dk/)
 
-- 💬 Ask me anything about **Laravel & Vue**
-
-- 📫 How to reach me **andreas@tickethero.dk**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andreasherss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andreasherss" height="30" width="40" /></a>
